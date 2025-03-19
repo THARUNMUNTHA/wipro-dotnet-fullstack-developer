@@ -1,0 +1,7 @@
+E:\day1\Day1Projects\printandscandemo\obj\Debug\printandscandemo.csproj.AssemblyReference.cache
+E:\day1\Day1Projects\printandscandemo\obj\Debug\printandscandemo.csproj.CoreCompileInputs.cache
+E:\day1\Day1Projects\printandscandemo\bin\Debug\printandscandemo.exe.config
+E:\day1\Day1Projects\printandscandemo\bin\Debug\printandscandemo.exe
+E:\day1\Day1Projects\printandscandemo\bin\Debug\printandscandemo.pdb
+E:\day1\Day1Projects\printandscandemo\obj\Debug\printandscandemo.exe
+E:\day1\Day1Projects\printandscandemo\obj\Debug\printandscandemo.pdb

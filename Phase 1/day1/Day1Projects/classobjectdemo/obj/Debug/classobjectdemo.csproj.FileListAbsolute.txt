@@ -1,0 +1,10 @@
+E:\day1\Day1Projects\classobjectdemo\bin\Debug\classobjectdemo.exe.config
+E:\day1\Day1Projects\classobjectdemo\bin\Debug\classobjectdemo.exe
+E:\day1\Day1Projects\classobjectdemo\bin\Debug\classobjectdemo.pdb
+E:\day1\Day1Projects\classobjectdemo\obj\Debug\classobjectdemo.csproj.AssemblyReference.cache
+E:\day1\Day1Projects\classobjectdemo\obj\Debug\classobjectdemo.Form1.resources
+E:\day1\Day1Projects\classobjectdemo\obj\Debug\classobjectdemo.Properties.Resources.resources
+E:\day1\Day1Projects\classobjectdemo\obj\Debug\classobjectdemo.csproj.GenerateResource.cache
+E:\day1\Day1Projects\classobjectdemo\obj\Debug\classobjectdemo.csproj.CoreCompileInputs.cache
+E:\day1\Day1Projects\classobjectdemo\obj\Debug\classobjectdemo.exe
+E:\day1\Day1Projects\classobjectdemo\obj\Debug\classobjectdemo.pdb
